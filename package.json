@@ -1,7 +1,11 @@
 {
-  "name": "Gulp Starter Kit",
+  "name": "Gulp-Starter-Kit",
   "version": "1.0.0",
   "description": "A Gulp starter kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacquesuys/flex-lib"
+  },
   "main": "gulpfile.js",
   "devDependencies": {
     "git": "^0.1.5",
